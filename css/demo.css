@@ -1,0 +1,44 @@
+body {
+    background: #fff;
+  color: #333;
+  font-size: 11px;
+  height: auto;
+  padding-bottom: 20px;
+}
+
+
+
+h1 {
+  font-family: Georgia, serif;
+  font-weight: normal;
+  padding-top: 20px;
+  text-align: center;
+}
+
+h2 {
+  padding-top: 20px;
+  text-align: center;
+}
+
+
+
+
+.container_12,
+.container_16,
+.container_24 {
+  background-color: #fff;
+  background-repeat: repeat-y;
+  margin-bottom: 20px;
+}
+
+.container_12 {
+  
+}
+
+.container_16 {
+ 
+}
+
+.container_24 {
+  
+}
